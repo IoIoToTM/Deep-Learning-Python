@@ -1,0 +1,5 @@
+1. This example includes the Single Shot Detector (framework) with a MobileNet base model trained the Common Objects in Context (COCO) dataset. The `.prototxt`
+[Link](https://drive.google.com/file/d/0B3gersZ2cHIxWGEzbG5nSXpNQzA/view) and `.caffemodel` [Link](https://drive.google.com/file/d/0B3gersZ2cHIxZi13UWF0OXBsZzA/view).
+This project is referenced from [here](https://www.pyimagesearch.com/2018/05/14/a-gentle-guide-to-deep-learning-object-detection/)
+
+2. This example contains the implementation of YOLOv2 in Keras with Tensorflow backend from scratch. The model was trained of a set of f1 racecars and was successfully able to detect the same in images and video. Due to memory constraints , the training data size was reduced. A more effiecient way would be to implement a tinyYOLO net if you have a lack of GPU memory or any other resource constraints. This project is referenced from [here](https://github.com/experiencor/keras-yolo2).

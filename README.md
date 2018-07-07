@@ -1,2 +1,7 @@
-# Deep-Learning-Python
-Trying to keep it simple
+# Ipython Notebooks
+this is a test
+
+
+
+
+

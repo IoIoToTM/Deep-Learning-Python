@@ -1,0 +1,6 @@
+!.gitignore
+textgen.hd5
+*.pkl
+*.hdf5
+*h5 
+
